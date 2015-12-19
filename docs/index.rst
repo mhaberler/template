@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-This is mah's SECOND attempt at a readthedocs site
+This is mah's THIRD attempt at a readthedocs site
 ==================================================
 
 Contents:
